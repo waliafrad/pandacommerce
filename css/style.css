@@ -1,0 +1,17 @@
+.orange-bg{
+    background-color: rgb(253, 211, 250);
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.price-color{
+    color: rgb(243, 63, 174);
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, red 0%, rgb(236, 98, 116) 100%);
+    color: white;
+    font-weight: 300;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
