@@ -15,3 +15,18 @@
     padding: 5px 20px;
     border-radius: 5px;
 }
+.cat1, .cat2, .cat3{
+    padding: 19px 19px;
+    border-radius: 5px;
+    color: white;
+    text-transform: capitalize;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
